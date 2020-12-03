@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1602028967 source:c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\jasarbasic_deniz_mountainmain.cpp
+	"functions.h"
+
+1600732457 c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1600732664 c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\apvector.h
+	"apvector.cpp"
+
+1600732669 c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1600732455 c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\apmatrix.cpp
+
+1600708070 source:c:\mingw\include\ap files\apstring.cpp
+	<string.h>
+	<assert.h>
+	<stdlib.h>
+	<ctype.h>
+	"apstring.h"
+
+1600708077 c:\mingw\include\ap files\apstring.h
+	<iostream>
+
+1602028927 c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\functions.h
+	<iostream>
+	<math.h>
+	<string>
+	<fstream>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"apmatrix.h"
+
+1602028896 source:c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\allegrosetup.cpp
+	"functions.h"
+
+1601947206 source:c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\pathalgorithms.cpp
+	"functions.h"
+	<limits.h>
+	<time.h>
+
+1601947309 source:c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\datamanipulation.cpp
+	"functions.h"
+
+1602029003 source:c:\users\deniz\desktop\school projects\ics4u - deniz jasarbasic\jasarbasic_deniz_mountainassignement\jasarbasic_deniz_mountainsassignement\userinterface.cpp
+	"functions.h"
+	<iomanip>
+

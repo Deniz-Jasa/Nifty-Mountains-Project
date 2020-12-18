@@ -4,7 +4,7 @@ Description: This program reads in a set of topographic elevation data into a 2D
 
 This program finds the paths in an iterative method using 3 different algorithms, a greddy algorithm, an improved greddy alogirthm, and the floyd-marshall algorithm.
 
-This project is based on and solve the Standford Mountain Climb Project http://nifty.stanford.edu/2016/franke-mountain-paths/
+This project is based on and solves the Standford Mountain Climb Project http://nifty.stanford.edu/2016/franke-mountain-paths/
 
 ![coloredMap](https://user-images.githubusercontent.com/46465622/95269298-1f6d9280-0807-11eb-818e-4466ac9a90b3.jpg)
 

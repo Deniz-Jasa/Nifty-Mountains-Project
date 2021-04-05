@@ -8,6 +8,6 @@ This program finds the paths in an iterative method using 3 different algorithms
 
 This project is based on and solves the Standford Mountain Climb Project http://nifty.stanford.edu/2016/franke-mountain-paths/
 
-Sample Path:
+**Sample Path:**
 
 ![grayScale](https://user-images.githubusercontent.com/46465622/95269302-21cfec80-0807-11eb-955f-58f358fb62c6.jpg)
